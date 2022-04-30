@@ -1,0 +1,11 @@
+import './trucker';
+import './taxi';
+import './pineappleCollector';
+import './weedCollector';
+import './orangeCollector';
+import './goldMiner';
+import './cluckinBell';
+import './forkliftDriver';
+import './carThief';
+import './portMover';
+import './diver';
