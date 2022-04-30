@@ -7,7 +7,7 @@ class Mailer {
 		const mail = {
 			subject,
 			text,
-			from: `MIAMI RP | HELP | ${'miamirp.help@gmail.com'}`,
+			from: `NEPALOI PROJECT | HELP | ${'nepaloi.help@gmail.com'}`,
 			to: `${email}`
 		};
 

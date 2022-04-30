@@ -35,7 +35,7 @@ mp.events.subscribe({
 		cam.destroy();
 		cam = null;
 
-		setInterval(() => mp.discord.update('miamirp.ru', player.name), 10000);
+		setInterval(() => mp.discord.update('leecity.ru', player.name), 10000);
 
 		hud.updateOnline();
 		hud.updateDonationMultiplier();

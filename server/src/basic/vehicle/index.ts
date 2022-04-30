@@ -76,7 +76,7 @@ class Vehicle {
 		spawn = true
 	) {
 		let vehicle: VehicleMp;
-		const number = temporary ? 'MIAMIRP1' : await this.generateNumber();
+		const number = temporary ? 'PROJECT1' : await this.generateNumber();
 		const { tank, health } = this.getTypeOptions(model);
 
 		if (spawn) {

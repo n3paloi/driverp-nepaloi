@@ -133,7 +133,7 @@ class VehicleShop {
 		this.vehicle = mp.vehicles.new(mp.game.joaat(name), position, {
 			dimension: player.dimension,
 			heading: rotation,
-			numberPlate: 'MIAMIRP1'
+			numberPlate: 'PROJECT1'
 		});
 		while (!mp.game.entity.isAnEntity(this.vehicle.handle)) mp.game.wait(0);
 

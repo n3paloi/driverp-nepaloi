@@ -32,7 +32,7 @@ class Browser {
 	}
 
 	private init() {
-		this.browser = mp.browsers.new('https://leecyb.ru');
+		this.browser = mp.browsers.new(''); // Путь к вашему browser
 
 		mp.gui.chat.show(false);
 
