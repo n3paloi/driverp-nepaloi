@@ -24,7 +24,6 @@ import './basic/vehicle';
 import './basic/waypoint';
 import './basic/cityHall';
 // import './basic/forefinger';
-import './basic/crouch';
 import './basic/actions';
 import './basic/headsack';
 import './character/creator';
